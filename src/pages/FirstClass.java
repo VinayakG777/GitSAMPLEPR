@@ -14,5 +14,10 @@ public void FourthMethod()
 	{
 		System.out.println("ThirdMethod");
 	}
+public void FeatureMethod()
+
+	{
+		System.out.println("FeatureMethod");
+	}
 	
 }
