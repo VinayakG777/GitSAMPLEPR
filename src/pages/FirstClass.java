@@ -9,5 +9,9 @@ public class FirstClass {
 	{
 		System.out.println("secondMethod");
 	}
+	public void ThirdMethod()
+	{
+		System.out.println("ThirdMethod");
+	}
 	
 }
