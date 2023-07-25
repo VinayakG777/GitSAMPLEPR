@@ -15,10 +15,12 @@ public void FourthMethod()
 	{
 		System.out.println("ThirdMethod");
 	}
-public void noFeatureMethod()
+
+public void FeatureMethod()
 
 	{
-		System.out.println("noFeatureMethod");
+		System.out.println("FeatureMethod");
+
 	}
 	
 }
